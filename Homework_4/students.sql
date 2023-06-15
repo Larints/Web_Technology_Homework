@@ -1,0 +1,13 @@
+-- create
+CREATE TABLE STUDENTS (
+  id INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  age INTEGER,
+  address TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO STUDENTS VALUES (0001, 'Clark', 30, 'Moscow');
+
+-- fetch 
+SELECT * FROM STUDENTS WHERE id = 0001;
