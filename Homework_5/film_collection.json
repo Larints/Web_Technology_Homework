@@ -1,0 +1,37 @@
+[
+    {
+        "Name of the movie": "The Shawshank Redemption",
+        "Genre": "Drama",
+        "Director": "Frank Darabont",
+        "Release date": "September 23, 1994 (United States)",
+        "Starring": ["Tim Robbins","Bob Gunton","William Sadler", "Clancy Brown", "Gil Bellows", "James Whitmore"]
+    },
+    {
+        "Name of the movie": "The Green Mile",
+        "Genre": "fantasy/drama",
+        "Director": "Frank Darabont",
+        "Release date": "December 10, 1999 (United States)",
+        "Starring": ["Tom Hanks","David Morse","Bonnie Hunt", "Michael Clarke Duncan", "James Cromwell", "Michael Jeter"]
+    },
+    {
+        "Name of the movie": "Schindler's List",
+        "Genre": "Epic historical drama",
+        "Director": "Steven Spielberg",
+        "Release date": "December 15, 1993 (United States)",
+        "Starring": ["Liam Neeson","Ben Kingsley","Ralph Fiennes", "Caroline Goodall", "Jonathan Sagall", "Embeth Davidtz"]
+    },
+    {
+        "Name of the movie": "God on Trial",
+        "Genre": "Drama",
+        "Director": "Andy De Emmony",
+        "Release date": "3 September 2008",
+        "Starring": ["Antony Sher","Rupert Graves","Jack Shepherd", "Dominic Cooper", "Eddie Marsan", "Stellan Skarsgård"]
+    },
+    {
+        "Name of the movie": "Noah",
+        "Genre": "Epic biblical drama film",
+        "Director": "Darren Aronofsky",
+        "Release date": "March 28, 2014 (United States)",
+        "Starring": ["Russell Crowe","Jennifer Connelly","Ray Winstone", "Emma Watson", "Logan Lerman", "Anthony Hopkins"]
+    }
+]

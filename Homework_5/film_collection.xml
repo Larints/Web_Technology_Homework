@@ -1,0 +1,37 @@
+<CATALOG>
+    <film> 
+        <name_of_film>The Shawshank Redemption</name_of_film>
+        <genre>Drama</genre>
+        <director>Frank Darabont</director>
+        <release_date>September 23, 1994</release_date>
+        <starring>Tim Robbins,Bob Gunton,William Sadler,Clancy Brown,Gil Bellows,James Whitmore</starring>
+    </film>
+    <film>
+        <name_of_film>The Green Mile</name_of_film>
+        <genre>fantasy/drama</genre>
+        <director>Frank Darabont</director>
+        <release_date>December 10, 1999</release_date>
+        <starring>Tom Hanks,David Morse,Bonnie Hunt, Michael Clarke Duncan, James Cromwell, Michael Jeter</starring>
+    </film>
+    <film>
+        <name_of_film>Schindler's List</name_of_film>
+        <genre>Epic historical drama</genre>
+        <director>Steven Spielberg</director>
+        <release_date>December 15, 1993</release_date>
+        <starring>Liam Neeson,Ben Kingsley,Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz</starring>
+    </film>
+    <film>
+        <name_of_film>God on Trial</name_of_film>
+        <genre>Drama</genre>
+        <director>Andy De Emmony</director>
+        <release_date>3 September 2008</release_date>
+        <starring>Antony Sher,Rupert Graves,Jack Shepherd, Dominic Cooper, Eddie Marsan, Stellan Skarsgård</starring>
+    </film>
+    <film>
+        <name_of_film>Noah</name_of_film>
+        <genre>Epic biblical drama film</genre>
+        <director>Darren Aronofsky</director>
+        <release_date>March 28, 2014</release_date>
+        <starring>Russell Crowe,Jennifer Connelly,Ray Winstone, Emma Watson, Logan Lerman, Anthony Hopkins</starring>
+    </film>
+</CATALOG>
